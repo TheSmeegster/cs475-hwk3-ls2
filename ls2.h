@@ -8,5 +8,6 @@
 #define INDENT "    "
 
 // TODO: Function declarations here for ls2
+void readDIR(char* path);
 
 #endif
